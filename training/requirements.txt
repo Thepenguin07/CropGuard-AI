@@ -1,0 +1,5 @@
+tensorflow-macos==2.16.1
+tensorflow-metal==1.1.0
+tensorflowjs==4.20.0
+pillow
+numpy

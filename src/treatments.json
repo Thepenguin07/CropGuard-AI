@@ -1,0 +1,107 @@
+{
+  "wheat_healthy": {
+    "label_en": "Healthy Wheat",
+    "label_hi": "स्वस्थ गेहूं",
+    "severity": "green",
+    "advice_en": "No disease detected. Continue regular monitoring.",
+    "advice_hi": "कोई रोग नहीं मिला। नियमित निगरानी जारी रखें।"
+  },
+  "wheat_yellow_rust": {
+    "label_en": "Wheat Yellow Rust",
+    "label_hi": "गेहूं की पीली रतुआ",
+    "severity": "yellow",
+    "advice_en": "Apply Propiconazole 25% EC @ 0.1% as per ICAR advisory. Treat within 3-5 days of symptom onset.",
+    "advice_hi": "ICAR सलाह अनुसार प्रोपिकोनाज़ोल 25% ईसी @ 0.1% का छिड़काव करें। लक्षण दिखने के 3-5 दिन के भीतर उपचार करें।"
+  },
+  "wheat_brown_rust": {
+    "label_en": "Wheat Brown (Leaf) Rust",
+    "label_hi": "गेहूं की भूरी (पत्ती) रतुआ",
+    "severity": "yellow",
+    "advice_en": "Apply Propiconazole as per ICAR dosage guidelines. Monitor adjoining fields for spread.",
+    "advice_hi": "ICAR खुराक दिशानिर्देशों के अनुसार प्रोपिकोनाज़ोल का प्रयोग करें। फैलाव हेतु पड़ोसी खेतों की निगरानी करें।"
+  },
+  "rice_healthy": {
+    "label_en": "Healthy Rice",
+    "label_hi": "स्वस्थ धान",
+    "severity": "green",
+    "advice_en": "No disease detected. Continue regular monitoring.",
+    "advice_hi": "कोई रोग नहीं मिला। नियमित निगरानी जारी रखें।"
+  },
+  "rice_leaf_blast": {
+    "label_en": "Rice Leaf Blast",
+    "label_hi": "धान का पत्ती ब्लास्ट रोग",
+    "severity": "red",
+    "advice_en": "Apply Tricyclazole 75% WP @ 0.6 g/L immediately. High-risk disease; treat within 24-48 hrs.",
+    "advice_hi": "तुरंत ट्राइसाइक्लाज़ोल 75% डब्ल्यूपी @ 0.6 ग्राम/लीटर का प्रयोग करें। यह उच्च जोखिम वाला रोग है; 24-48 घंटों में उपचार करें।"
+  },
+  "rice_neck_blast": {
+    "label_en": "Rice Neck Blast",
+    "label_hi": "धान का गर्दन ब्लास्ट रोग",
+    "severity": "red",
+    "advice_en": "Apply Tricyclazole 75% WP immediately at panicle emergence stage. Can cause severe yield loss if untreated.",
+    "advice_hi": "बाली निकलने की अवस्था में तुरंत ट्राइसाइक्लाज़ोल 75% डब्ल्यूपी का प्रयोग करें। उपचार न करने पर भारी उपज हानि हो सकती है।"
+  },
+  "rice_brown_spot": {
+    "label_en": "Rice Brown Spot",
+    "label_hi": "धान का भूरा धब्बा रोग",
+    "severity": "yellow",
+    "advice_en": "Apply Mancozeb 75% WP @ 2g/L. Improve field drainage and balance nitrogen application.",
+    "advice_hi": "मैंकोज़ेब 75% डब्ल्यूपी @ 2 ग्राम/लीटर का प्रयोग करें। खेत की जल निकासी सुधारें और नाइट्रोजन संतुलित करें।"
+  },
+  "tomato_healthy": {
+    "label_en": "Healthy Tomato",
+    "label_hi": "स्वस्थ टमाटर",
+    "severity": "green",
+    "advice_en": "No disease detected. Continue regular monitoring.",
+    "advice_hi": "कोई रोग नहीं मिला। नियमित निगरानी जारी रखें।"
+  },
+  "tomato_early_blight": {
+    "label_en": "Tomato Early Blight",
+    "label_hi": "टमाटर का अगेती झुलसा रोग",
+    "severity": "yellow",
+    "advice_en": "Apply Chlorothalonil or Mancozeb as per ICAR protocol. Remove and destroy infected lower leaves.",
+    "advice_hi": "ICAR प्रोटोकॉल अनुसार क्लोरोथैलोनिल या मैंकोज़ेब का प्रयोग करें। संक्रमित निचली पत्तियों को हटाकर नष्ट करें।"
+  },
+  "tomato_late_blight": {
+    "label_en": "Tomato Late Blight",
+    "label_hi": "टमाटर का पछेती झुलसा रोग",
+    "severity": "red",
+    "advice_en": "Immediate action required. Apply Metalaxyl + Mancozeb combination. Disease can destroy crop within days.",
+    "advice_hi": "तुरंत कार्रवाई आवश्यक है। मेटालैक्सिल + मैंकोज़ेब संयोजन का प्रयोग करें। यह रोग कुछ दिनों में फसल नष्ट कर सकता है।"
+  },
+  "potato_healthy": {
+    "label_en": "Healthy Potato",
+    "label_hi": "स्वस्थ आलू",
+    "severity": "green",
+    "advice_en": "No disease detected. Continue regular monitoring.",
+    "advice_hi": "कोई रोग नहीं मिला। नियमित निगरानी जारी रखें।"
+  },
+  "potato_early_blight": {
+    "label_en": "Potato Early Blight",
+    "label_hi": "आलू का अगेती झुलसा रोग",
+    "severity": "yellow",
+    "advice_en": "Apply Mancozeb 75% WP as per ICAR dosage. Ensure adequate plant spacing for airflow.",
+    "advice_hi": "ICAR खुराक अनुसार मैंकोज़ेब 75% डब्ल्यूपी का प्रयोग करें। हवा के प्रवाह हेतु उचित पौध दूरी रखें।"
+  },
+  "potato_late_blight": {
+    "label_en": "Potato Late Blight",
+    "label_hi": "आलू का पछेती झुलसा रोग",
+    "severity": "red",
+    "advice_en": "Immediate fungicide treatment required (Cymoxanil + Mancozeb). Historically the most destructive potato disease.",
+    "advice_hi": "तुरंत फफूंदनाशक उपचार आवश्यक है (साइमोक्सानिल + मैंकोज़ेब)। यह ऐतिहासिक रूप से आलू का सबसे विनाशकारी रोग है।"
+  },
+  "maize_healthy": {
+    "label_en": "Healthy Maize",
+    "label_hi": "स्वस्थ मक्का",
+    "severity": "green",
+    "advice_en": "No disease detected. Continue regular monitoring.",
+    "advice_hi": "कोई रोग नहीं मिला। नियमित निगरानी जारी रखें।"
+  },
+  "maize_common_rust": {
+    "label_en": "Maize Common Rust",
+    "label_hi": "मक्का का सामान्य रतुआ रोग",
+    "severity": "yellow",
+    "advice_en": "Apply Propiconazole or Mancozeb as per ICAR guidelines. Generally manageable if treated early.",
+    "advice_hi": "ICAR दिशानिर्देशों अनुसार प्रोपिकोनाज़ोल या मैंकोज़ेब का प्रयोग करें। जल्दी उपचार करने पर यह सामान्यतः नियंत्रित किया जा सकता है।"
+  }
+}

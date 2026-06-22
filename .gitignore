@@ -1,0 +1,13 @@
+node_modules/
+training/data/
+training/output/
+training/venv/
+training/venv_convert/
+training/PlantDoc-Dataset/
+/tmp/
+*.pyc
+__pycache__/
+.DS_Store
+public/model/*.bin
+public/model/tfjs_model/
+venv/
